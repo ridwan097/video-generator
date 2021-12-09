@@ -1,3 +1,9 @@
+# About this App
+
+This app was created using react as part of the udemy course I am completing.
+
+It uses the youtube api to display searched videos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
