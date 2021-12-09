@@ -2,7 +2,7 @@
 
 This app was created using react as part of the udemy course I am completing.
 
-It uses the youtube api to display searched videos.
+It uses the youtube api to display searched videos and uses semantic ui for styling.
 
 # Getting Started with Create React App
 
